@@ -1,0 +1,16 @@
+﻿  Image_FilterDlg.cpp
+  Generating Code...
+  Compiling...
+  Image_Filter.cpp
+  Filters.cpp
+c:\users\vliliescu\documents\visual studio 2017\projects\image_filter\image_filter\filters.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\vliliescu\documents\visual studio 2017\projects\image_filter\image_filter\filters.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\vliliescu\documents\visual studio 2017\projects\image_filter\image_filter\filters.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\vliliescu\documents\visual studio 2017\projects\image_filter\image_filter\filters.cpp(47): warning C4018: '<': signed/unsigned mismatch
+c:\users\vliliescu\documents\visual studio 2017\projects\image_filter\image_filter\filters.cpp(48): warning C4018: '<': signed/unsigned mismatch
+c:\users\vliliescu\documents\visual studio 2017\projects\image_filter\image_filter\filters.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\vliliescu\documents\visual studio 2017\projects\image_filter\image_filter\filters.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\vliliescu\documents\visual studio 2017\projects\image_filter\image_filter\filters.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\vliliescu\documents\visual studio 2017\projects\image_filter\image_filter\filters.cpp(70): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Image_Filter.vcxproj -> C:\Users\vliliescu\Documents\Visual Studio 2017\Projects\Image_Filter\Debug\Image_Filter.exe
